@@ -1,0 +1,6 @@
+{
+	"name": "shared-dev-environment",
+	"build": {
+        "dockerfile": "Dockerfile"
+    }
+}
